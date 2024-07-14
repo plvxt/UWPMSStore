@@ -11,7 +11,7 @@ UWPMSStore ha sido creado para llenar el vacío de la falta de Microsoft Store e
 ### Paso a paso 📚
 
 1. **Descargar el programa** 📥:
-   - Dirígete a la sección de [Releases](https://github.com/tu-repo/UWPMSStore/releases) y descarga la última versión de UWPMSStore.
+   - Dirígete a la sección de [Releases](https://github.com/plvxt/UWPMSStore/releases) y descarga la última versión de UWPMSStore.
 
 2. **Ejecutar el instalador** 💽:
    - Abre el archivo descargado y sigue las instrucciones en pantalla para instalar UWPMSStore en tu sistema.
